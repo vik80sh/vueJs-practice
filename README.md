@@ -1,7 +1,7 @@
-# firstproject
+#Vuejs sample project
 
 > Practice
-
+This project covered data-binding , template ,how to include css/scss , propes , component and event-management 
 ## Build Setup
 
 ``` bash
